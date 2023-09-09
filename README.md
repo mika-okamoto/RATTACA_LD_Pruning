@@ -15,7 +15,7 @@ And graphing:
 - Prediction performance distributions
 - Runtimes
 
-/experimental: scripts for testing and new ideas (not public)
-/old: in-between scripts and old ideas which were refined in other scripts (not public)
-main folder: main scripts for plots in plot_correlations.ipynb
+/experimental: scripts for testing and new ideas (not public)<br>
+/old: in-between scripts and old ideas which were refined in other scripts (not public)<br>
+main folder: main scripts for plots in plot_correlations.ipynb<br>
 /pyrrBLUP: class to run rrBLUP in python, used for scikit-learn comparisons
