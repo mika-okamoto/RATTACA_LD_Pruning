@@ -1,0 +1,16 @@
+name: r_env2
+channels:
+  - conda-forge
+  - defaults
+  - r
+  - bioconda
+dependencies:
+  - r-essentials
+  - r-base
+  - r-readr
+  - r-tidyr
+  - r-dplyr
+  - r-rrBLUP
+  - parallel
+  
+prefix: /home/mhokamoto/miniconda3/envs/r_env
