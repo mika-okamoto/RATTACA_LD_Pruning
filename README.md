@@ -2,7 +2,7 @@
 
 ### Main Notebook: plot_correlations.ipynb
 
-Includes scripts to generate prediction performance data for various experiments and to visualize the data. 
+Includes scripts written in R and Python to generate prediction performance data for various experiments and to visualize the data. 
 
 Comparing phenotype prediction performance with different genome subsampling methods including:
 - LD pruning parameters - $r^2$ and window size 
