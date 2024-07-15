@@ -1,8 +1,12 @@
 # Scripts for RATTACA LD Pruning Testing
 
+## [Associated with RATTACA: Genetic predictions in Heterogeneous Stock rats offer a new tool for genetic correlation and experimental design](https://doi.org/10.1101/2023.09.18.558279)
+### Benjamin B. Johnson, Thiago M. Sanches, <ins>Mika H. Okamoto</ins>, Khai-Min Nguyen, Clara A. Ortez, Oksana Polesskaya, Abraham A. Palmer
+
 ### Main Notebook: plot_correlations.ipynb
 
 Includes scripts written in R and Python to generate prediction performance data for various experiments and to visualize the data. 
+
 
 Comparing phenotype prediction performance with different genome subsampling methods including:
 - LD pruning parameters - $r^2$ and window size 
