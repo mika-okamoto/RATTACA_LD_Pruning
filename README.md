@@ -15,7 +15,14 @@ And graphing:
 - Prediction performance distributions
 - Runtimes
 
+main folder: main prediction pipeline and correlation plots<br>
+full_pred_pipeline.r: code for general prediction pipeline<br>
+plot_correlations.ipynb: correlation graphs from various experiments<br>
+plot_runtimes_py.ipynb: runtime graphs from various experiments (to demonstrate cost of different methods)<br>
+convex_hull.ipynb: code for testing various rat breeding algorithms for maximizing genetic diversity of offspring<br>
+<br>
+/experiments/code: pipelines for generating performance data for different genome subsampling methods<br>
+/experiments/plots: notebooks of plots of different experiments of different genome subsampling methods<br>
+/pyrrBLUP: class to run rrBLUP in python, used for scikit-learn comparisons<br>
 /experimental: scripts for testing and new ideas (not public)<br>
 /old: in-between scripts and old ideas which were refined in other scripts (not public)<br>
-main folder: main scripts for plots in plot_correlations.ipynb<br>
-/pyrrBLUP: class to run rrBLUP in python, used for scikit-learn comparisons
